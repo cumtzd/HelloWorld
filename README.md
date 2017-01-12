@@ -1,2 +1,2 @@
 # HelloWorld
-my the first repository in GitHub
+my the first repository in GitHub太棒了
